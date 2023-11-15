@@ -1,0 +1,73 @@
+body {
+    background-color: #474747; /* Ganti kode warna ini sesuai dengan warna biru muda yang Anda inginkan */
+}
+.box-flex{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 5px;
+}
+
+.content1{
+    /* border: 1px solid black; */
+    margin: 10px;
+    padding: 5px;
+}
+
+.content2{
+    margin: 10px;
+    padding: 5px;
+    width: 900px; /* Atur lebar konten kiri*/
+}
+
+.ava{
+    border-radius: 50%;
+    width: 230px;
+    height: 230px;
+    margin-left: 85px;
+
+}
+
+.box1{
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 5px;
+}
+
+.box2{
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid black;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+
+.box3{
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid black;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+.desain{
+    width: 180px;
+}
+
+.imgdesain {
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+}
+.imgsosmed {
+    width: 40px;
+    height: 40px;
+}
+.sosmed{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.Nama {
+    text-align: center;
+}
